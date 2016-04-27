@@ -1,0 +1,390 @@
+﻿Сборка начата 27.04.2016 22:49:38.
+     1>Проект "C:\Users\PC\Desktop\DM GUI\MinWin32.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Lesson41.cpp
+         Lesson41.cpp
+     1>c:\users\pc\desktop\dm gui\samrrr_bibl.h(30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\samrrr_bibl.h(41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\samrrr_bibl.h(42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\samrrr_bibl.h(62): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\samrrr_bibl.h(75): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\megalib.h(176): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(337): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(337): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(337): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(444): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(444): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(444): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(444): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(626): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(961): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(1060): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(1062): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(1073): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(1579): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pc\desktop\dm gui\megalib.cpp(1582): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(161): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(179): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(405): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(406): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(407): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(408): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(412): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(413): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(414): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(415): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(274): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(274): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(437): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(438): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(439): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(440): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(457): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(462): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(463): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(464): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(465): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(472): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(473): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(474): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(475): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(490): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(491): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(492): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(493): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(509): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(514): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(515): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(516): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(517): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(524): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(525): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(526): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(527): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(427): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(427): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(427): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(549): warning C4305: аргумент: усечение из "double" к "GLfloat"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(592): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(593): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(601): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(602): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(606): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(609): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(610): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(611): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(612): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(629): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(635): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(635): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(641): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(648): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(648): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(648): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(654): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(654): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(654): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(669): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(670): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(678): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(679): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(683): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(686): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(687): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(688): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(689): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(726): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(732): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(747): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(748): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(756): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(757): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(761): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(764): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(765): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(766): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(767): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(784): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(810): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(816): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(822): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(828): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(843): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(844): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(852): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(853): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(857): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(860): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(861): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(862): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(863): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(880): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(900): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(906): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(912): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(918): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(933): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(934): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(942): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(943): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(947): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(950): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(951): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(952): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(953): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(970): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(976): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(982): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(988): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(994): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1000): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1006): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1012): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1018): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1034): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1035): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1043): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1044): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1048): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1051): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1052): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1053): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1054): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1071): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1078): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1078): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1084): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1084): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1099): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1100): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1108): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1109): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1113): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1116): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1117): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1118): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1119): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1136): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1143): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1149): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1163): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1164): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1172): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1173): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1177): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1180): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1181): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1182): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1183): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1219): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1225): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1231): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1237): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1251): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1252): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1260): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1261): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1265): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1268): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1269): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1270): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1271): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1295): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1301): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1315): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1316): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1324): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1325): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1329): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1332): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1333): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1334): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1335): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1359): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1365): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1371): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1377): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1391): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1392): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1400): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1401): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1405): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1408): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1409): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1410): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1411): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1435): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1441): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1447): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1453): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1467): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1468): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1476): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1477): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1481): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1484): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1485): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1486): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1487): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1523): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1529): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1536): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1542): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1548): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1554): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1569): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1570): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1578): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1579): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1583): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1586): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1587): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1588): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1589): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1618): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1624): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1630): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1636): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1642): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1657): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1658): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1666): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1667): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1671): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1674): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1675): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1676): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1677): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1798): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1812): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1813): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1821): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1822): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1826): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1829): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1830): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1831): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1832): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(1893): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2161): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2183): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356): см. объявление "vsprintf"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2448): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211): см. объявление "fopen"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2504): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2505): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2662): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2662): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2662): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2662): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2832): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2833): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2834): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2835): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2839): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: w: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: a: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: q: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: b: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: d: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: c: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2818): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2871): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2877): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118): см. объявление "strcat"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2878): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118): см. объявление "strcat"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2971): warning C4101: w: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2971): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2968): warning C4101: s: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2971): warning C4101: q: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2969): warning C4101: destination: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2971): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2971): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(2971): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3128): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3130): warning C4305: аргумент: усечение из "double" к "float"
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: w: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: a: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: q: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: b: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: d: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: c: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3088): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3146): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3147): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3136): warning C4101: w: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3137): warning C4101: v: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3137): warning C4101: y2: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3137): warning C4101: x2: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3136): warning C4101: a: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3137): warning C4101: u: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3137): warning C4101: y1: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3137): warning C4101: y3: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3136): warning C4101: q: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3136): warning C4101: b: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3137): warning C4101: x1: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3136): warning C4101: d: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3136): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3137): warning C4101: x3: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3136): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3160): warning C4101: w: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3161): warning C4101: v: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3160): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3161): warning C4101: u: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3160): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3161): warning C4101: yy: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3160): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3160): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3208): warning C4101: v: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3208): warning C4101: u: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: w: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: v: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: y2: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: x2: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: a: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: xx: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: i: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: u: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: z3: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: y1: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: y3: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: tt4: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: tt1: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: z2: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: q: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: zz: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: b: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: desem: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: x1: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: tt3: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: d: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: c: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: r: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: x3: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: z1: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3248): warning C4101: yy: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: tt2: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: j: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3247): warning C4101: o: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3342): warning C4101: v: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3422): warning C4101: v: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3422): warning C4101: u: неиспользованная локальная переменная
+     1>c:\users\pc\desktop\dm gui\lesson41.cpp(3690): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+       Link:
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PC\Desktop\DM GUI\Debug\MinWin32.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PC\Desktop\DM GUI\Debug\MinWin32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PC\Desktop\DM GUI\Debug\MinWin32.lib" /MACHINE:X86 /SAFESEH Debug\Lesson41.obj
+         Debug\NeHeGL.obj
+         MinWin32.vcxproj -> C:\Users\PC\Desktop\DM GUI\Debug\MinWin32.exe
+     1>Сборка проекта "C:\Users\PC\Desktop\DM GUI\MinWin32.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.67
